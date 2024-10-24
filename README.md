@@ -25,27 +25,6 @@ The Task focuses on creating a **PDF Processing Pipeline** that handles PDF file
 
 ---
 
-## 📁 **Directory Structure**  
-D:/ai-intern-task/  
-│  
-├── main.py                      # Main script to run the pipeline  
-├── requirements.txt             # Dependencies required for the project  
-│  
-├── utils/                       # Utility functions and scripts  
-│   ├── __pycache__/             # Cache for compiled Python files (can be ignored)  
-│   ├── db_manager.py            # MongoDB integration and JSON updates  
-│   ├── keyword_extractor.py      # Custom keyword extraction logic  
-│   ├── pdf_handler.py           # Handles PDF parsing and text extraction  
-│   └── summary_extractor.py      # Custom summarization logic  
-│  
-├── tests/                       # Directory for test-related files  
-│   ├── __pycache__/             # Cache for compiled Python files (can be ignored)  
-│   ├── sample_pdfs/            # Sample PDF files for testing  
-│   └── test_pipeline.py         # Test script for the pipeline  
-│  
-└── .gitignore                   # Specifies files and directories to ignore in Git  
----
-
 ## 🚀 **Run the Application**  
 1. **Prerequisites**  
    - Install [Python](https://www.python.org/downloads/).  
