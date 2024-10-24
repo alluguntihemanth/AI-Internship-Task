@@ -25,6 +25,16 @@ The Task focuses on creating a **PDF Processing Pipeline** that handles PDF file
 
 ---
 
+## 🚧 **Development Status**  
+This application is currently under active development. As such, it may still contain bugs or incomplete features. User feedback is welcome to help improve the functionality and overall experience.
+
+## 🌐 **Running Locally**  
+- The application is designed to run only on a local server environment for the time being. This means you will need to set it up on your own machine to test and interact with the features.
+- To run the application, follow the setup instructions provided in the **Run the Application** section.
+- Since it's running locally, users won't be able to access it via a public URL; they must have the application installed and run it from their local environment.
+
+---
+
 ## 🚀 **Run the Application**  
 1. **Prerequisites**  
    - Install [Python](https://www.python.org/downloads/).  
